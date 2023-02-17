@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <@Praxis-south>
+   # <Praxis-south>
 
    # Input:
    # p, principal amount
